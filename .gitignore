@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+reports/
+scan_history.json
+.pytest_cache/
+.env
